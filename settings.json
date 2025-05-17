@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "KGStufe8.aternos.me",
+    "port": 36657,
     "version": "1.19.3"
   },
 
