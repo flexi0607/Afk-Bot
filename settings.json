@@ -1,14 +1,14 @@
 {
   "bot-account": {
-    "username": "bot",
+    "username": "Smarti123",
     "password": "your_password",
     "type": "microsoft"
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
-    "version": "1.19.3"
+    "ip": "germansmp.de",
+    "port": 19132,
+    "version": "1.21.8"
   },
 
   "position": {
@@ -27,8 +27,8 @@
     "anti-afk": {
       "enabled": false,
       "sneak": false,
-      "jump": false,
-      "rotate": false,
+      "jump": true,
+      "rotate": rotate,
 
       "hit": {
         "enabled": false,
@@ -43,15 +43,12 @@
     },
 
     "chat-messages": {
-      "enabled": false,
-      "repeat": true,
+      "enabled": true,
+      "repeat": false,
       "repeat-delay": 60,
 
       "messages": [
-        "I'm a regular player ",
-        "My owner is urFate_ ",
-        "I want be alone ",
-        "Visit my GitHub page! (urFate/Afk-Bot)"
+        "/tpaauto"
       ]
     },
 
